@@ -1,0 +1,16 @@
+INFO:root:Starting script
+INFO:root:Fetching data from the API
+INFO:root:Creating users table
+INFO:root:Inserting data into the users table
+INFO:root:Verifying data
+INFO:root:Script execution completed
+INFO:root:Starting script
+INFO:root:Fetching data from the API
+INFO:root:Creating users table
+INFO:root:Created users table
+INFO:root:Inserting data into the users table
+INFO:root:Inserted data into the users table
+INFO:root:Verifying data
+INFO:root:Script execution completed
+INFO:root:Created users table
+INFO:root:Created users table
